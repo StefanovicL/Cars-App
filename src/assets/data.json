@@ -1,0 +1,112 @@
+[
+	{
+		"carBrandLogoUrl": "./assets/Mocks/CarLogos/bmw.png",
+		"carBrandName": "BMW",
+		"countryFlagUrl": "./assets/Mocks/Flags/germany.png",
+		"carBrandDescription": "These days, BMW is known for producing vehicles packed with technology, high levels of comfort, and powertrain refinement and fuel efficiency. BMW still offers fun-to-drive sporty cars, such as the 2 Series coupe, Z4 roadster, and M-designated models, along with very plush luxury cars and a wide variety of polished SUVs. The i sub-brand is focused on electric cars. The iDrive infotainment system has become much more intuitive in recent years. BMW is among the more reliable European brands.",
+		"productionDate": "03/25/2021",
+		"horsePowerMax": 304,
+		"horsePowerMin": 140,
+		"fuelType": 1,
+		"usageType": 2
+	},
+	{
+		"carBrandLogoUrl": "./assets/Mocks/CarLogos/audi.png",
+		"carBrandName": "Audi",
+		"countryFlagUrl": "./assets/Mocks/Flags/germany.png",
+		"carBrandDescription": "This German luxury brand is known for technology and style as much as its performance, well-crafted interiors, and its trademark Quattro all-wheel-drive system. Nearly every model is a solid performer with a high-grade interior. Ride and handling are accomplished and the cabin is quiet. Currently, Audis rank about mid pack in terms of reliability.",
+		"productionDate": "02/25/2019",
+		"horsePowerMax": 302,
+		"horsePowerMin": 140,
+		"fuelType": 1,
+		"usageType": 2
+	},
+	{
+		"carBrandLogoUrl": "./assets/Mocks/CarLogos/bentley.png",
+		"carBrandName": "Bentley",
+		"countryFlagUrl": "./assets/Mocks/Flags/uk.png",
+		"carBrandDescription": "A storied, British brand, Bentley has long represented premium motoring, serving as a sportier alternative to Rolls-Royce. Today, the brand is owned by Volkswagen. Since 1998, this ownership helped modernize the product line, with the corporate parent sharing some platforms, powertrains, and parts. The model range consists of the Flying Spur and Mulsanne sedans, Continental coupe, and Bentayga SUV. These are all heavy, powerful, coddling vehicles that exist to pamper their owners and make a statement.",
+		"productionDate": "03/20/2021",
+		"horsePowerMax": 304,
+		"horsePowerMin": 140,
+		"fuelType": 1,
+		"usageType": 2
+	},
+	{
+		"carBrandLogoUrl": "./assets/Mocks/CarLogos/honda.png",
+		"carBrandName": "Honda",
+		"countryFlagUrl": "./assets/Mocks/Flags/japan.png",
+		"carBrandDescription": "Most Hondas have energetic powertrains and competitive fuel economy but their infotainment systems are a bit behind the times. The Honda driving experience is usually sound. Standout models in our tests are the Accord, CR-V, Odyssey, and Ridgeline. The Insight delivers exceptional fuel economy. The Honda Civic is offered in a range of flavors and configurations. Honda even sells the Clarity line, which showcases the company’s diverse alternative fuel technologies, and includes one version that’s a hydrogen-powered fuel-cell variant.  Overall, with a few exceptions, Honda ranks among the most reliable automakers.",
+		"productionDate": "09/25/2020",
+		"horsePowerMax": 300,
+		"horsePowerMin": 140,
+		"fuelType": 1,
+		"usageType": 2
+	},
+	{
+		"carBrandLogoUrl": "./assets/Mocks/CarLogos/hyundai.png",
+		"carBrandName": "Hyundai",
+		"countryFlagUrl": "./assets/Mocks/Flags/south-korea.png",
+		"carBrandDescription": "Many of Hyundai's vehicles are good all-around performers, with simple controls, impressive fit and finish, and helpful features. The lineup includes a wide range of models, from the small Accent sedan all the way to the three-row Palisade SUV. The fuel-efficient Ioniq challenges the Toyota Prius with three different drivetrains: hybrid, plug-in hybrid, and all-electric. Overall reliability is quite good, with Hyundai landing among the most trustworthy brands.",
+		"productionDate": "03/15/2020",
+		"horsePowerMax": 312,
+		"horsePowerMin": 140,
+		"fuelType": 1,
+		"usageType": 2
+	},
+	{
+		"carBrandLogoUrl": "./assets/Mocks/CarLogos/infiniti.png",
+		"carBrandName": "Infiniti",
+		"countryFlagUrl": "./assets/Mocks/Flags/japan.png",
+		"carBrandDescription": "The premium Infiniti brand is a mixed bag of some stylish and some long-in-the-tooth models.  Fit and finish is usually very good, and the powertrains are typically strong. But it is hard to nail down just what Infiniti embodies as a brand, because test performance, reliability, and owner satisfaction vary widely across the portfolio. Infotainment systems are behind the times. At least the vehicles come with a wealth of standard safety features.",
+		"productionDate": "07/25/2021",
+		"horsePowerMax": 296,
+		"horsePowerMin": 140,
+		"fuelType": 1,
+		"usageType": 2
+	},
+	{
+		"carBrandLogoUrl": "./assets/Mocks/CarLogos/jaguar.png",
+		"carBrandName": "Jaguar",
+		"countryFlagUrl": "./assets/Mocks/Flags/uk.png",
+		"carBrandDescription": "This storied British luxury and sports car brand is famous for striking looks, agility, ride comfort,  and powerful engines. Most recent Jaguar sedans have been sleek and low-slung, but they pay for the styling statement with impeded access and a relatively tight cockpit. On the plus side, sharp handling puts Jaguars among the more sporting luxury car and SUV choices. The I-Pace adds an electric choice. Infotainment systems are too slow to respond and distracting to use. Reliability is a concern across the board.",
+		"productionDate": "05/25/2021",
+		"horsePowerMax": 270,
+		"horsePowerMin": 140,
+		"fuelType": 1,
+		"usageType": 2
+	},
+	{
+		"carBrandLogoUrl": "./assets/Mocks/CarLogos/jeep.png",
+		"carBrandName": "Jeep",
+		"countryFlagUrl": "./assets/Mocks/Flags/usa.png",
+		"carBrandDescription": "The Jeep brand embodies the essence of rugged, go-anywhere vehicles. Jeeps have a long history of customer loyalty despite lagging in fuel economy, comfort, and interior fit and finish. Nowhere has that been truer than with the roughrider Wrangler, an iconic workhorse loved by its owners. The Gladiator pickup truck version broadens the model’s appeal even more. The Grand Cherokee is, by far, the Jeep with the highest road test score thanks to its accomplished ride, handling, seat comfort and easy controls. Reliability is a mixed bag across the brand.",
+		"productionDate": "03/05/2019",
+		"horsePowerMax": 250,
+		"horsePowerMin": 140,
+		"fuelType": 1,
+		"usageType": 2
+	},
+	{
+		"carBrandLogoUrl": "./assets/Mocks/CarLogos/maserati.png",
+		"carBrandName": "Maserati",
+		"countryFlagUrl": "./assets/Mocks/Flags/italy.png",
+		"carBrandDescription": "A storied Italian maker of elegant, sporty cars, Maserati has been a niche brand for almost its entire 100-year history. It has gone through several ownerships, partnerships, and identity crises over the years. Today it is owned by Fiat Chrysler Automobiles. The engines are developed by Ferrari, and other elements are extensively cribbed from the Chrysler parts bin. The marque’s appeal has been broadened by the Ghibli sedan and Levante SUV.",
+		"productionDate": "07/17/2017",
+		"horsePowerMax": 300,
+		"horsePowerMin": 140,
+		"fuelType": 1,
+		"usageType": 2
+	},
+	{
+		"carBrandLogoUrl": "./assets/Mocks/CarLogos/mercedes-benz.png",
+		"carBrandName": "Mercedes-Benz",
+		"countryFlagUrl": "./assets/Mocks/Flags/germany.png",
+		"carBrandDescription": "These luxury vehicles typically offer a plush ride, an impeccable interior, quiet cabin, advanced safety systems, and crisp handling. Models such as the C-, E-, and S-Class sedans, and the GLS and GLE SUVs, have performed very well in our tests. High-performance AMG versions are fierce track-bred machines. Mercedes also offers a few more affordable models, such as the A-Class, and GLA and GLB SUVs. An electric EQC SUV is on the way. Overall, the company’s reliability ranks in the lower third of all brands. Specifically, the redesigned GLE SUV is one of the least reliable new models in our survey.",
+		"productionDate": "03/06/2021",
+		"horsePowerMax": 330,
+		"horsePowerMin": 140,
+		"fuelType": 1,
+		"usageType": 2
+	}
+]

@@ -1,0 +1,18 @@
+<app-header (searchTextChanged)="onSearchTextEntered($event)"></app-header>
+<div class="table">
+    <table>
+        <ng-container *ngFor="let car of cars">
+            <tr *ngIf="searchText === '' || car.carBrandName.toLowerCase().includes(searchText)">
+                <td><img src="{{car.carBrandLogoUrl}}" alt="car brand"></td>
+                <td id="name" class="name">{{car.carBrandName}}</td>
+                <td><img src="{{car.countryFlagUrl}}" alt="country flag"></td>
+                <td><a href="" routerLink="/brand-details-component/{{car.carBrandName}}" (click)="getCarBrandName(car.carBrandName)">{{car.carBrandName}} Description</a></td>
+                <td>{{car.productionDate}}</td>
+                <td>{{car.horsePowerMin}}hp-{{car.horsePowerMax}}hp</td>
+                <td *ngIf="car.fuelType == 1">Diesel</td>
+                <td *ngIf="car.usageType == 2">New</td>
+            </tr>
+        </ng-container>
+    </table>
+</div>
+<app-footer></app-footer>

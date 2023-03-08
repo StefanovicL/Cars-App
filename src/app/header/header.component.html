@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <header>
+        <img id="logo" src="../assets/Logo.png" alt="logo">
+        <input type="text" placeholder="Search..." id="search" [(ngModel)]="enteredSearchValue" (input)="onSearchTextChanged()">
+    </header>
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#live_search").keyup(function() {
+                var input = $(this).val(); // u input je dodela bilo koja vrednost uneta u polje za pretragu !
+
+                if (input != "") {
+                    $.ajax({
+                        url: "app-component",
+                        method: "POST",
+                        data: {
+                            input: input
+                        },
+                        success: function(data) {
+                            $("#searchresult").html(data); // ako input nije prazan, u id searchresult se smesta rezultat
+                        }
+                    });
+                } else 
+                {
+                    $("#searchresult").html(data);
+                    //$("#searchresult").css("display", "none"); // ako je input prazan nece se prikazati nista
+                
+                }
+            });
+        });
+    </script> -->
+</body>
+</html>
